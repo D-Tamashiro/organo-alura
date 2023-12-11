@@ -1,8 +1,8 @@
 import { useState } from 'react'
 import PropTypes from 'prop-types'
-import Botao from '../botao'
-import List from '../list'
-import TextField from '../textField'
+import Botao from 'src/components/botao'
+import List from 'src/components/list'
+import TextField from 'src/components/textField'
 import './Form.css'
 
 const Form = (props) => {

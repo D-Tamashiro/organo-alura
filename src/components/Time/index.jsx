@@ -1,4 +1,4 @@
-import Colaborador from '../colaborador'
+import Colaborador from 'src/components/colaborador'
 import './Time.css'
 import PropTypes from 'prop-types'
 
