@@ -1,0 +1,22 @@
+.footer {
+    height: 233px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 80px;
+    align-content: center;
+    background-color: #6278F7;
+    color: #FFF;
+}
+
+.footer .socialMedia {
+    width: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-content: center;
+}
+
+.footer .socialMedia a {
+    height: min-content;
+}
